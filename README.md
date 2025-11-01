@@ -1,4 +1,4 @@
-"# insightcore-bridge" 
+
 # InsightCore Bridge (mock telemetry pipeline)
 
 Small telemetry simulation and bridge utilities used to generate, structure,
